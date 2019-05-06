@@ -108,7 +108,7 @@ header ul li:hover{
 	width: 600vw;
 	height: 480px;
 	position: relative;
-	top:-460px;
+	top:-502px;
 	overflow-x: hidden;
 	left: 0;
 	z-index: -1;
@@ -144,7 +144,7 @@ header ul li:hover{
 	position: relative;
 	height: 200px;
 	width: 100vw;
-	top: -600px;
+	top: -530px;
 	text-align: center;
 	padding: 5px 30px;
 	align-items: center;
